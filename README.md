@@ -1,4 +1,8 @@
 ## Hi there 👋
+## Hola, soy Daniel
+
+### Estudiante de Administración de Empresas
+- aprendiendo de progamación
 
 <!--
 **MarD100/MarD100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
