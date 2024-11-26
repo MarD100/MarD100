@@ -2,6 +2,15 @@
 ## Hola, soy Daniel
 
 ### Estudiante de Administración de Empresas
+# Abilities 
+-Trabajo en equipo
+-Conocimiento tecnico 
+-Gestión de proyectos y personal
+-Manejo de redes sociales
+-TD en empresas
+-Community Mannager 
+
+# Learning
 - aprendiendo de progamación
 
 <!--
